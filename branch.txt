@@ -1,1 +1,3 @@
+
+mais uma informa√ß√£o:
 Branchs s∆o ramos no git, onde n¢s fazemos modificaá‰es de um arquivo, elas ficam apenas naquela branch, podendo depois fazer o merge para uma outra branch, que basicamente Ç juntar os c¢digos 
