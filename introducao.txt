@@ -1,0 +1,1 @@
+O git ‚ uma ferramenta de versionamento de c¢digo, j  o github ‚ um servidor de hospedagem de projetos git, que permite criar c¢digo de forma compartilhada. 
