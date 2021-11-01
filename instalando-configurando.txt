@@ -1,0 +1,1 @@
+a instalaá∆o e configuraá∆o Ç muito simples, basicamente baixamos os arquivos git no site, configuramos nossas credenciais de email e nome, que s∆o usadas para identificar quem fez os commits 
