@@ -1,0 +1,25 @@
+Estes são os principais comandos:
+git init - inicia um repositório git local.
+git add nome-arquivo.ext - este comando adiciona um determinado arquivo a área de seleção do git
+git add -A - adiciona todos os arquivos a área de seleção
+git add . - adiciona todos os arquivos não monitorados e alterados a área de seleção
+gi commit -m - este comando adiciona o arquivo para uma "versão" do código.
+git commit --amend -m "mensagem" - este comando permite alterar a última mensagem de commit caso seja necessário.
+git log - permite ver toda a árvore de commits
+git log --oneline - permite ver todos os commits de uma forma simplificada.
+git log --stat - permite ver todos os commits de uma forma detalhada.
+git help - abre todos os comandos do git caso eu esteja esquecendo algum posso usar esse comando para relembrar.
+git status - verifica se o arquivo está monitorado (com git add) e se o arquivo já está commitado.
+git diff - permite ver as alterações do arquivo, as edições de um documento.
+git diff --name-only - permite ver qual arquivo tem diferenças.
+git reset HEAD arquivo.txt - usado para desfazer mudanças que já haviam sido adicionadas com git add
+git checkout -- arquivo.txt - desfaz as modificações no arquivo.
+git branch - é usado para verificar todas as branchs 
+git branch nome-branch - é usado para criar uma nova branch (ramo)
+git checkout -b nome-branch - é usado para criar uma branch e já mudar para ela.
+git checkout nome-branch - é usado para mudar para uma outra branch
+git branch -d nome-branch - é usado para deletar uma branch, geralmente após o merge.
+git branch -D nome-branch - é quando "forçamos" deletar a branch.
+git merge nova-branch - é quando fazemos o merge, primeiro precisamos ir a branch que queremos fazer um merge, e por ela usamos esse comando para juntar a branch nova.
+
+
