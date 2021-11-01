@@ -1,0 +1,1 @@
+Para conectar o git local ao github Ç muito simples, criamos um reposit¢rio local e adicionamos ao reposit¢rio remoto com git add remote + endereáo do reposit¢rio no Github. Se estiver usando uma conex∆o SSH automaticamente ele conecta, se for uma conex∆o HTTPS ele pede os dados de email e senha. 
